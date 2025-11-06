@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.sport-spiegels.nl	TRUE	/en	FALSE	1999999999	localization	NL
+www.sport-spiegels.nl	TRUE	/de	FALSE	1999999999	localization	NL
+www.sport-spiegels.nl	TRUE	/	FALSE	1999999999	_shopify_analytics	:AZpUwcFjAAEAXyBgA0a6SjX6OV4ugzoUTiEyuQc33IMSv6rsP8VMyhNW2hPzXWjRgo42jI8:
+www.sport-spiegels.nl	TRUE	/	FALSE	1999999999	localization	NL
+sport-spiegels.nl	TRUE	/	FALSE	1999999999	_shopify_y	28a0bf96-3374-4968-af25-00cc507a4d05
+sport-spiegels.nl	TRUE	/	FALSE	1999999999	_shopify_s	befe39a0-2d1b-4754-918c-5b8ac0fe8cf5
+www.sport-spiegels.nl	TRUE	/	FALSE	1999999999	_shopify_essential	:AZpUwcFKAAEAkaw6p47PAx22TX5UcN7IyjUojIJWj7xUV8Eo50QGz6hRYXXomfINP6aNocxqXATYrOZkia2qOtPf_Dqa7itBK7xXSW7vxC0qOhLOuSOQRLG92vUHB7QHdXLJIofCpVhFyobR6rpww5-oCV7pVI3npgwSLZngdayMV0cpCVmF0-MpQ-3xnHdwXvirJlSpMxNnyZ3HcIWSpLwtPNZJMAeAOfOwiNESjTRB9D9GqiNqPfoKwvvGq0iu0eqdb1wHF9N_89jefKwdPHHizqBAR4Qnro9964z7J2KlXurClx8xORMN-9-6P6ZgmlO3hM-JEY3mJKGyYf5iREnF3DndpUhwbf0k_t5zw1Ghhb7-Ew:
+www.sport-spiegels.nl	TRUE	/	FALSE	1999999999	Priority	High
+www.sport-spiegels.nl	TRUE	/	FALSE	1999999999	SameSite	Lax
+
